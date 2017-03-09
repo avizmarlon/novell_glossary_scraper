@@ -39,8 +39,8 @@ glossary = {}
 character_category_range = range(0, 26)
 character_category_base = "ch00"
 for category_num in character_category_range:
-	path = """//*[@id="DocNavEntry%d"]""" % (category_num + 1)
 	glossary_data = ['word', 'definition']
+	path = """//*[@id="DocNavEntry%d"]""" % (category_num + 1)
 	xpath_root = xpath(category_num, path)
 	print(xpath_root)
 	
