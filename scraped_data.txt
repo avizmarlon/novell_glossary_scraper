@@ -1,0 +1,9 @@
+
+Previous    Next	 	View PDF version    Comment    Send this page to a friend    Bookmark this page
+@
+
+Execute External Program
+
+A NetWare® login script command that executes an external program on a Windows* 95 or Windows NT* workstation.
+
+
