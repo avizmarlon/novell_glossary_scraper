@@ -15,4 +15,4 @@ def show_mouse_coord():
 			exit()
 
 if __name__ == "__main__":
-	show_mouse_coord()
+		show_mouse_coord()
