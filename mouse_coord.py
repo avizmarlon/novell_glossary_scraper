@@ -3,6 +3,7 @@ import pyautogui
 
 # this will show x and y coordinates of the mouse pointer, updated dynamically, 
 # always printed on the same line.
+# it will also copy x, y coordinates as two-integer tuple when KeyboardInterrupt happens.
 def show_mouse_coord():
 	while True:
 		try:
