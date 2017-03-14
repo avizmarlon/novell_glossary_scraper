@@ -1,6 +1,8 @@
 import pyperclip
 import pyautogui
 
+# this will show x and y coordinates of the mouse pointer, updated dynamically, 
+# always printed on the same line.
 def show_mouse_coord():
 	while True:
 		try:
